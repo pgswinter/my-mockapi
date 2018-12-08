@@ -1,0 +1,272 @@
+{
+    "administrators": [
+        {
+            "id": 12,
+            "email": "admin_k@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:43.000Z",
+            "roles": [
+                {
+                    "id": 2,
+                    "role_name": "author_master",
+                    "order": 2
+                },
+                {
+                    "id": 9,
+                    "role_name": "series_calendar",
+                    "order": 9
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "email": "admin_j@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:43.000Z",
+            "roles": [
+                {
+                    "id": 5,
+                    "role_name": "tag_master",
+                    "order": 5
+                },
+                {
+                    "id": 11,
+                    "role_name": "production_report_master",
+                    "order": 11
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "email": "admin_i@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:43.000Z",
+            "roles": [
+                {
+                    "id": 2,
+                    "role_name": "author_master",
+                    "order": 2
+                },
+                {
+                    "id": 4,
+                    "role_name": "production_master",
+                    "order": 4
+                },
+                {
+                    "id": 8,
+                    "role_name": "role_master",
+                    "order": 8
+                },
+                {
+                    "id": 10,
+                    "role_name": "comment_report_master",
+                    "order": 10
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "email": "admin_h@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:43.000Z",
+            "roles": [
+                {
+                    "id": 3,
+                    "role_name": "review_comment",
+                    "order": 3
+                },
+                {
+                    "id": 6,
+                    "role_name": "genre_master",
+                    "order": 6
+                },
+                {
+                    "id": 8,
+                    "role_name": "role_master",
+                    "order": 8
+                },
+                {
+                    "id": 10,
+                    "role_name": "comment_report_master",
+                    "order": 10
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "email": "admin_g@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:43.000Z",
+            "roles": [
+                {
+                    "id": 6,
+                    "role_name": "genre_master",
+                    "order": 6
+                },
+                {
+                    "id": 8,
+                    "role_name": "role_master",
+                    "order": 8
+                },
+                {
+                    "id": 10,
+                    "role_name": "comment_report_master",
+                    "order": 10
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "email": "admin_f@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:43.000Z",
+            "roles": [
+                {
+                    "id": 8,
+                    "role_name": "role_master",
+                    "order": 8
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "email": "admin_e@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:42.000Z",
+            "roles": [
+                {
+                    "id": 1,
+                    "role_name": "user_master",
+                    "order": 1
+                },
+                {
+                    "id": 5,
+                    "role_name": "tag_master",
+                    "order": 5
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "email": "admin_d@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:42.000Z",
+            "roles": [
+                {
+                    "id": 7,
+                    "role_name": "news_master",
+                    "order": 7
+                },
+                {
+                    "id": 9,
+                    "role_name": "series_calendar",
+                    "order": 9
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "email": "admin_c@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:42.000Z",
+            "roles": [
+                {
+                    "id": 1,
+                    "role_name": "user_master",
+                    "order": 1
+                },
+                {
+                    "id": 2,
+                    "role_name": "author_master",
+                    "order": 2
+                },
+                {
+                    "id": 6,
+                    "role_name": "genre_master",
+                    "order": 6
+                },
+                {
+                    "id": 8,
+                    "role_name": "role_master",
+                    "order": 8
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "email": "admin_b@gmail.com",
+            "username": null,
+            "profile_picture": {
+                "url": null
+            },
+            "front_editor_name": null,
+            "group": null,
+            "operational": "non-operational",
+            "created_at": "2018-12-07T03:25:42.000Z",
+            "roles": [
+                {
+                    "id": 5,
+                    "role_name": "tag_master",
+                    "order": 5
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "total": 12
+    }
+}
