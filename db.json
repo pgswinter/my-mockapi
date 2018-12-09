@@ -266,12 +266,11 @@
             ]
         }
     ],
-    "users":[  
-        {  
-           "id":1,
-           "unm":"sean"
-        }
-     ],
+    "users":[
+        { "name": "Austin", "gender": "Male", "company": "Swimlane" },
+        { "name": "Dany", "gender": "Male", "company": "KFC" },
+        { "name": "Molly", "gender": "Female", "company": "Burger King" }
+    ],
      "todos":[  
         {  
            "id":1,
