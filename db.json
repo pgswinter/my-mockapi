@@ -284,16 +284,6 @@
         { "name": "Molly", "gender": "Female", "company": "Burger King" },
         { "name": "Austin", "gender": "Male", "company": "Swimlane" },
         { "name": "Dany", "gender": "Male", "company": "KFC" },
-        { "name": "Molly", "gender": "Female", "company": "Burger King" },
-        { "name": "Austin", "gender": "Male", "company": "Swimlane" },
-        { "name": "Dany", "gender": "Male", "company": "KFC" },
-        { "name": "Molly", "gender": "Female", "company": "Burger King" },
-        { "name": "Austin", "gender": "Male", "company": "Swimlane" },
-        { "name": "Dany", "gender": "Male", "company": "KFC" },
-        { "name": "Molly", "gender": "Female", "company": "Burger King" },
-        { "name": "Austin", "gender": "Male", "company": "Swimlane" },
-        { "name": "Dany", "gender": "Male", "company": "KFC" },
-        { "name": "Molly", "gender": "Female", "company": "Burger King" },
         { "name": "Austin", "gender": "Male", "company": "Swimlane" },
         { "name": "Dany", "gender": "Male", "company": "KFC" },
         { "name": "Molly", "gender": "Female", "company": "Burger King" },
@@ -301,34 +291,6 @@
         { "name": "Dany", "gender": "Male", "company": "KFC" },
         { "name": "Molly", "gender": "Female", "company": "Burger King" }
     ],
-     "todos":[  
-        {  
-           "id":1,
-           "name":"list1",
-           "items":[  
-              {  
-                 "title":"asd",
-                 "descrp":"asd"
-              }
-           ],
-           "userId":1
-        },
-       {  
-           "id":2,
-           "name":"list2",
-           "items":[  
-              {  
-                 "title":"Book",
-                 "descrp":"Read Outliers"
-              },
-              {  
-                 "title":"sadasd",
-                 "descrp":"Reassasdasdasdssliers"
-              }
-           ],
-           "userId":1
-        }
-     ],
     "meta": {
         "total": 12
     }
