@@ -1,4 +1,15 @@
 {
+    "auth":{
+        "data": [
+            {
+                "id": 1,
+                "user": {
+                    "id": 1,
+                    "role": "admin"
+                }
+            }
+        ]
+    },
     "administrators": [
         {
             "id": 12,
