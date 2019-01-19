@@ -28,6 +28,7 @@
         {
             "id": 12,
             "email": "admin_k@gmail.com",
+            "password": "admin@123",
             "username": null,
             "profile_picture": {
                 "url": "abc.com"
@@ -52,6 +53,7 @@
         {
             "id": 6,
             "email": "admin_e@gmail.com",
+            "password": "admin@123",
             "username": null,
             "profile_picture": {
                 "url": null
@@ -76,6 +78,7 @@
         {
             "id": 5,
             "email": "admin_d@gmail.com",
+            "password": "admin@123",
             "username": null,
             "profile_picture": {
                 "url": null
@@ -100,6 +103,7 @@
         {
             "id": 4,
             "email": "admin_c@gmail.com",
+            "password": "admin@123",
             "username": null,
             "profile_picture": {
                 "url": null
@@ -134,6 +138,7 @@
         {
             "id": 3,
             "email": "admin_b@gmail.com",
+            "password": "admin@123",
             "username": null,
             "profile_picture": {
                 "url": null
